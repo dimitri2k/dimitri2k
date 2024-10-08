@@ -1,4 +1,5 @@
-## Hi there 👋
+## Welcome to my Github @dimitri2k
+## I enjoy the professional challenges as showed across my profesional career from Electronics moves to Oil Field Industry and then to Medical Diagnostics Field, and now to Data Science and Machine Learning 👋
 
 <!--
 **dimitri2k/dimitri2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
